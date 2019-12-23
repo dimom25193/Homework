@@ -1,0 +1,100 @@
+body {
+  background-color: #a39ea3;
+    margin: auto;
+    padding:  auto;
+}
+.container {
+  background-color: white;
+  width: 800px;
+  margin-left:  auto;
+    margin-right: auto;
+
+padding: 20px;
+ }
+.fi {
+    width: 800px;
+    height: 550px;
+}
+a {
+   text-decoration: none;
+}
+
+.logo {
+  float: left;
+  padding-top: 10px;
+    font-size: 25px;
+    margin-top: 5px;
+}
+nav {
+  float: right;
+}
+nav ul {
+font-size: 18px;
+}
+nav li {
+  display: inline-block;
+    margin-left: 50px;
+}
+h1 {
+  padding-top: 10px;
+   margin-left: 40px;
+   margin-right: 40px;
+}
+p {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.f2 {
+   width: 720px;
+    height: 550px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.f3 {
+    width: 720px;
+    height: 550px;
+    margin-left: 20px;
+}
+.f4 {
+    width: 720px;
+    height: 550px;
+    margin-left: 20px;
+}
+.q {
+  margin-left: 15px;
+}
+.container1 {
+  background-color: darkgray;
+  width: 800px;
+  margin-left:  auto;
+    margin-right: auto;
+padding: 20px;
+ }
+}
+.w {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.fn {
+
+margin: 40px;
+}
+.ff {
+  margin: 55px;
+}
+.f8 {
+  width: 800px;
+    height: 250px;
+}
+.f9 {
+  width: 800px;
+    height: 150px;
+    margin: auto;
+}
+.container2 {
+  background-color: #a39ea3;
+   width: 800px;
+  margin-left:  auto;
+    margin-right: auto;
+padding: 20px;
+}
